@@ -1,0 +1,8 @@
+{
+  "name": "EduPath AI - Career & Admission Navigator",
+  "description": "A comprehensive AI-powered platform for career guidance, university exploration, and admission planning, featuring a unique parent-student mediator tool.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
